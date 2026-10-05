@@ -1,0 +1,10 @@
+age=14
+weight=41.420
+print("The age is=",age)
+print("Data Type of age is=",type(age))
+print("The weight is=",weight)
+print("Data Type of weight is=",type(weight))
+age=str(age)
+print("Data Type of age is=",type(age))
+weight=int(weight)
+print("Data Type of weight is=",type(weight))
